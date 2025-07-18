@@ -1,0 +1,81 @@
+Aniket Circle Wards:
+- 09-Gandhi Nagar
+- 34-Radhaniwas
+- 50-Patharpura
+- 51-Gaushala Nagar
+- 62-Mathura Darwaza
+- 66-Keshighat
+- 70-Biharipur
+
+Abhinav Circle Wards:
+- 08-Atas
+- 13-Sunrakh
+- 21-Chaitanya Bihar
+- 25-Chharaura
+- 67-Kemar Van
+- 69-Ratan Chhatri
+
+Bharat Circle Wards:
+- 01-Birjapur
+- 03-Girdharpur
+- 11-Tarsi
+- 15-Maholi First
+- 16-Bakalpur
+- 20-Krishna Nagar First
+- 30-Krishna Nagar Second
+- 31-Navneet Nagar
+- 33-Palikhera
+- 37-Baldevpuri
+- 44-Radhika Bihar
+- 47-Dwarkapuri
+- 48-Satoha Asangpur
+- 54-Pratap Nagar
+- 59-Maholi Second
+- 68-Shanti Nagar
+
+Nishant Circle Wards:
+- 06-Aduki
+- 10-Aurangabad First
+- 23-Aheer Pada
+- 27-Baad
+- 28-Aurangabad Second
+- 29-Koyla Alipur
+- 32-Ranchibagar
+- 38-Civil lines
+- 41-Dhaulipiau
+- 52-Chandrapuri
+- 57-Balajipuram
+- 63-Maliyaan Sadar
+
+Rahul Circle Wards:
+- 02-Ambedkar Nagar
+- 04-Ishapur Yamunapar
+- 05-Bharatpur Gate
+- 07-Lohvan
+- 14-Lakshmi Nagar Yamunapar
+- 18-General ganj
+- 19-Ramnagar Yamunapar
+- 26-Naya Nagla
+- 35-Bankhandi
+- 49-Daimpiriyal Nagar
+- 53-Krishna puri
+- 61-Chaubia para
+- 64-Ghati Bahalray
+- 65-Holi Gali
+
+Ranveer Circle Wards:
+- 12-Radhe Shyam Colony
+- 17-Bairaagpura
+- 22-Badhri Nagar
+- 24-Sarai Azamabad
+- 36-Jaisingh Pura
+- 39-Mahavidhya Colony
+- 40-Rajkumar
+- 42-Manoharpur
+- 43-Ganeshra
+- 45-Birla Mandir
+- 46-Radha Nagar
+- 55-Govind Nagar
+- 56-Mandi Randas
+- 58-Gau Ghat
+- 60-Jagannath Puri

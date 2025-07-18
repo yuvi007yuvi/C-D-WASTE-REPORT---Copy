@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suvidh app Complaints Report</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="logo-container">
+           <CENTER> <img src="LOGO.png" alt="SafaiMitra Logo" class="app-logo"></CENTER>
+        </div>
+        <h1>Suvidh App Complaints</h1>
+        <div id="report-date-time" style="text-align: center; margin-bottom: 20px; font-size: 0.9em; color: #555;"></div>
+        <div class="control-panel">
+            <div class="control-panel-top">
+                <div class="filter-section">
+                    <div class="filter-group">
+                        <label for="circle-select">Filter by Circle:</label>
+                        <select id="circle-select">
+                            <option value="all">All Circles</option>
+                        </select>
+                    </div>
+                    <div class="filter-group">
+                        <label for="ward-select">Filter by Ward:</label>
+                        <select id="ward-select">
+                            <option value="all">All Wards</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="summary-section">
+                    <div class="summary-cards">
+                        <div class="card">
+                            <h3>Total Complaints</h3>
+                            <p id="total-complaints-count">0</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="upload-section" id="upload-section">
+                    <label for="csv-upload">Upload Complaint Data CSV:</label>
+                    <input type="file" id="csv-upload" accept=".csv">
+                </div>
+                <div class="report-buttons">
+                    <button id="print-report-btn">Print Report</button>
+                    <button id="export-jpeg-btn">Export as JPEG</button>
+                </div>
+            </div>
+        </div>
+        <div id="report-container"></div>
+        <script src="script.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+</body>
+
+</html>
